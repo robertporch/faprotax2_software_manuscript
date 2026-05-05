@@ -1,0 +1,63 @@
+function.	KEGG_function	pearson_r	p_value
+"FAPROTAX2 function:
+aerobic ammonia
+oxidation"	pmoABC amoABC genes	-0.113957787328514	0.534584327469756
+"FAPROTAX2 function:
+aerobic
+chemoheterotrophy"	oxidative phosphorylation genes	0.250130775332392	0.167364602105765
+"FAPROTAX2 function:
+aerobic
+chemoheterotrophy"	oxygen respiration cox genes	0.524051211162685	0.0020803006459913
+"FAPROTAX2 function:
+anoxygenic
+photoautotrophy"	anoxygenic phototrophy genes	0.383324306462347	0.0303397468235908
+"FAPROTAX2 function:
+cellulolysis"	cellulolysis genes	-0.235072524192005	0.195284965713779
+"FAPROTAX2 function:
+chitinolysis"	chitinolysis genes	0.283298443474379	0.116135611231429
+"FAPROTAX2 function:
+dark sulfide oxidation"	sulfide oxidation fcc sqr genes	0.446436104947563	0.0104289213929592
+"FAPROTAX2 function:
+dark sulfite oxidation"	sulfite oxidation to sulfate genes	-0.0454363473279469	0.804963849297294
+"FAPROTAX2 function:
+dark thiosulfate
+oxidation"	thiosulfate oxidation sox genes	0.634547647379357	9.60311338308423e-05
+"FAPROTAX2 function:
+dissimilatory arsenite oxidation"	arsenite oxidation genes	0.206601390647858	0.25658130983976
+"FAPROTAX2 function:
+fermentation"	fermentation genes	0.0863409375519681	0.638451433417643
+"FAPROTAX2 function:
+fumarate respiration"	fumarate respiration genes	-0.0639175463394484	0.728183835018815
+"FAPROTAX2 function:
+methanogenesis"	methanogenesis genes	0.988736437292379	2.61917891259705e-26
+"FAPROTAX2 function:
+methanol oxidation"	methanol oxidation genes	0.188850136759701	0.300600715111131
+"FAPROTAX2 function:
+methanotrophy"	pmoABC amoABC genes	-0.124131826831946	0.498479897929692
+"FAPROTAX2 function:
+methylotrophy"	methylotrophy genes	0.308761743250685	0.0855368558609519
+"FAPROTAX2 function:
+nitrate reduction"	nitrate reduction genes	0.0404692385123202	0.825940983319501
+"FAPROTAX2 function:
+nitrate respiration"	nitrate respiration genes	0.360920467174279	0.0424148716892222
+"FAPROTAX2 function:
+nitrite respiration"	nitrite respiration genes	0.0350009199783669	0.84917142972777
+"FAPROTAX2 function:
+nitrogen fixation"	nitrogen fixation genes	0.144679342980886	0.429505623123142
+"FAPROTAX2 function:
+oxygenic
+photoautotrophy"	oxygenic photosynthesis genes	0.135884021355864	0.45836396938391
+"FAPROTAX2 function:
+photoautotrophy"	carbon fixation genes	0.368185692994045	0.0381372793842268
+"FAPROTAX2 function:
+phototrophy"	phototrophy genes	0.354062519748293	0.0467979287619469
+"FAPROTAX2 function:
+plastic degradation"	plastics degradation genes	0.0190580495516038	0.91754348240779
+"FAPROTAX2 function:
+reductive acetogenesis"	reductive acetogenesis genes	0.380931700303999	0.0314774266562299
+"FAPROTAX2 function:
+thiosulfate respiration"	thiosulfate reduction to sulfide genes	0.573056203104317	0.000607874784146545
+"FAPROTAX2 function:
+ureolysis"	ureolysis genes	0.494951261391664	0.0039772482742747
+"FAPROTAX2 function:
+xylanolysis"	xylanolysis genes	-0.00830196817379711	0.964031392013973

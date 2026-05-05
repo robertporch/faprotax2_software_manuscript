@@ -1,0 +1,586 @@
+Version	Metric	trait	mean_score
+FAPROTAX v1	BA	acetoclastic_methanogenesis	
+FAPROTAX v1	BA	aerobic_ammonia_oxidation	
+FAPROTAX v1	BA	aerobic_anoxygenic_phototrophy	
+FAPROTAX v1	BA	aerobic_chemoheterotrophy	0.64377581120944
+FAPROTAX v1	BA	aerobic_nitrite_oxidation	
+FAPROTAX v1	BA	anammox	
+FAPROTAX v1	BA	animal_parasites_or_symbionts	
+FAPROTAX v1	BA	anoxygenic_photoautotrophy	
+FAPROTAX v1	BA	anoxygenic_photoautotrophy_Fe_oxidizing	
+FAPROTAX v1	BA	anoxygenic_photoautotrophy_H2_oxidizing	
+FAPROTAX v1	BA	anoxygenic_photoautotrophy_S_oxidizing	
+FAPROTAX v1	BA	aromatic_compound_degradation	
+FAPROTAX v1	BA	arsenate_respiration	
+FAPROTAX v1	BA	arsenite_oxidation_energy_yielding	
+FAPROTAX v1	BA	cellulolysis	0.504456967213115
+FAPROTAX v1	BA	chemoheterotrophy	0.663916256157636
+FAPROTAX v1	BA	chitinolysis	0.503787878787879
+FAPROTAX v1	BA	dark_hydrogen_oxidation	0.577058823529412
+FAPROTAX v1	BA	dark_oxidation_of_sulfur_compounds	0.56
+FAPROTAX v1	BA	dark_sulfide_oxidation	
+FAPROTAX v1	BA	dark_sulfite_oxidation	
+FAPROTAX v1	BA	dark_sulfur_oxidation	
+FAPROTAX v1	BA	dark_thiosulfate_oxidation	
+FAPROTAX v1	BA	fermentation	0.587677550267478
+FAPROTAX v1	BA	fumarate_respiration	
+FAPROTAX v1	BA	human_associated	
+FAPROTAX v1	BA	human_gut	
+FAPROTAX v1	BA	human_pathogens_all	
+FAPROTAX v1	BA	hydrocarbon_degradation	
+FAPROTAX v1	BA	hydrogenotrophic_methanogenesis	
+FAPROTAX v1	BA	iron_respiration	
+FAPROTAX v1	BA	knallgas_bacteria	
+FAPROTAX v1	BA	mammal_gut	
+FAPROTAX v1	BA	manganese_oxidation	
+FAPROTAX v1	BA	manganese_respiration	
+FAPROTAX v1	BA	methanogenesis	
+FAPROTAX v1	BA	methanogenesis_by_CO2_reduction_with_H2	
+FAPROTAX v1	BA	methanogenesis_by_disproportionation_of_methyl_groups	
+FAPROTAX v1	BA	methanogenesis_by_reduction_of_methyl_compounds_with_H2	
+FAPROTAX v1	BA	methanogenesis_using_formate	
+FAPROTAX v1	BA	methanol_oxidation	0.575
+FAPROTAX v1	BA	methylotrophy	
+FAPROTAX v1	BA	nitrate_ammonification	
+FAPROTAX v1	BA	nitrate_denitrification	0.5
+FAPROTAX v1	BA	nitrate_reduction	0.518814735196404
+FAPROTAX v1	BA	nitrate_respiration	0.514325293350717
+FAPROTAX v1	BA	nitrification	
+FAPROTAX v1	BA	nitrite_ammonification	
+FAPROTAX v1	BA	nitrite_denitrification	
+FAPROTAX v1	BA	nitrite_respiration	0.580520072992701
+FAPROTAX v1	BA	nitrogen_fixation	0.523333333333333
+FAPROTAX v1	BA	nitrogen_respiration	0.520218894009217
+FAPROTAX v1	BA	nitrous_oxide_denitrification	
+FAPROTAX v1	BA	oxygenic_photoautotrophy	1
+FAPROTAX v1	BA	photoautotrophy	0.90625
+FAPROTAX v1	BA	photoheterotrophy	0.55
+FAPROTAX v1	BA	phototrophy	0.822727272727273
+FAPROTAX v1	BA	reductive_acetogenesis	
+FAPROTAX v1	BA	respiration_of_sulfur_compounds	0.63610853432282
+FAPROTAX v1	BA	sulfate_respiration	0.797222222222222
+FAPROTAX v1	BA	sulfite_respiration	
+FAPROTAX v1	BA	sulfur_respiration	0.627639751552795
+FAPROTAX v1	BA	thiosulfate_respiration	0.5
+FAPROTAX v1	BA	ureolysis	0.505444964871194
+FAPROTAX v1	BA	xylanolysis	0.514035087719298
+FAPROTAX v1	TNR	acetoclastic_methanogenesis	1
+FAPROTAX v1	TNR	aerobic_ammonia_oxidation	1
+FAPROTAX v1	TNR	aerobic_anoxygenic_phototrophy	1
+FAPROTAX v1	TNR	aerobic_chemoheterotrophy	0.986666666666667
+FAPROTAX v1	TNR	aerobic_nitrite_oxidation	1
+FAPROTAX v1	TNR	anammox	1
+FAPROTAX v1	TNR	animal_parasites_or_symbionts	
+FAPROTAX v1	TNR	anoxygenic_photoautotrophy	1
+FAPROTAX v1	TNR	anoxygenic_photoautotrophy_Fe_oxidizing	1
+FAPROTAX v1	TNR	anoxygenic_photoautotrophy_H2_oxidizing	1
+FAPROTAX v1	TNR	anoxygenic_photoautotrophy_S_oxidizing	1
+FAPROTAX v1	TNR	aromatic_compound_degradation	
+FAPROTAX v1	TNR	arsenate_respiration	1
+FAPROTAX v1	TNR	arsenite_oxidation_energy_yielding	1
+FAPROTAX v1	TNR	cellulolysis	0.990163934426229
+FAPROTAX v1	TNR	chemoheterotrophy	0.957142857142857
+FAPROTAX v1	TNR	chitinolysis	0.990909090909091
+FAPROTAX v1	TNR	dark_hydrogen_oxidation	0.994117647058824
+FAPROTAX v1	TNR	dark_oxidation_of_sulfur_compounds	1
+FAPROTAX v1	TNR	dark_sulfide_oxidation	1
+FAPROTAX v1	TNR	dark_sulfite_oxidation	1
+FAPROTAX v1	TNR	dark_sulfur_oxidation	1
+FAPROTAX v1	TNR	dark_thiosulfate_oxidation	1
+FAPROTAX v1	TNR	fermentation	0.985611510791367
+FAPROTAX v1	TNR	fumarate_respiration	1
+FAPROTAX v1	TNR	human_associated	
+FAPROTAX v1	TNR	human_gut	
+FAPROTAX v1	TNR	human_pathogens_all	
+FAPROTAX v1	TNR	hydrocarbon_degradation	
+FAPROTAX v1	TNR	hydrogenotrophic_methanogenesis	0.997852028639618
+FAPROTAX v1	TNR	iron_respiration	1
+FAPROTAX v1	TNR	knallgas_bacteria	1
+FAPROTAX v1	TNR	mammal_gut	
+FAPROTAX v1	TNR	manganese_oxidation	1
+FAPROTAX v1	TNR	manganese_respiration	1
+FAPROTAX v1	TNR	methanogenesis	1
+FAPROTAX v1	TNR	methanogenesis_by_CO2_reduction_with_H2	0.999282296650718
+FAPROTAX v1	TNR	methanogenesis_by_disproportionation_of_methyl_groups	1
+FAPROTAX v1	TNR	methanogenesis_by_reduction_of_methyl_compounds_with_H2	1
+FAPROTAX v1	TNR	methanogenesis_using_formate	1
+FAPROTAX v1	TNR	methanol_oxidation	1
+FAPROTAX v1	TNR	methylotrophy	
+FAPROTAX v1	TNR	nitrate_ammonification	1
+FAPROTAX v1	TNR	nitrate_denitrification	1
+FAPROTAX v1	TNR	nitrate_reduction	0.987209302325581
+FAPROTAX v1	TNR	nitrate_respiration	0.997881355932203
+FAPROTAX v1	TNR	nitrification	1
+FAPROTAX v1	TNR	nitrite_ammonification	1
+FAPROTAX v1	TNR	nitrite_denitrification	0.998620689655172
+FAPROTAX v1	TNR	nitrite_respiration	0.998540145985401
+FAPROTAX v1	TNR	nitrogen_fixation	0.98
+FAPROTAX v1	TNR	nitrogen_respiration	0.99758064516129
+FAPROTAX v1	TNR	nitrous_oxide_denitrification	1
+FAPROTAX v1	TNR	oxygenic_photoautotrophy	1
+FAPROTAX v1	TNR	photoautotrophy	1
+FAPROTAX v1	TNR	photoheterotrophy	1
+FAPROTAX v1	TNR	phototrophy	1
+FAPROTAX v1	TNR	reductive_acetogenesis	1
+FAPROTAX v1	TNR	respiration_of_sulfur_compounds	0.999489795918367
+FAPROTAX v1	TNR	sulfate_respiration	0.994444444444444
+FAPROTAX v1	TNR	sulfite_respiration	1
+FAPROTAX v1	TNR	sulfur_respiration	0.998136645962733
+FAPROTAX v1	TNR	thiosulfate_respiration	1
+FAPROTAX v1	TNR	ureolysis	0.992857142857143
+FAPROTAX v1	TNR	xylanolysis	0.994736842105263
+FAPROTAX v1	TPR	acetoclastic_methanogenesis	
+FAPROTAX v1	TPR	aerobic_ammonia_oxidation	
+FAPROTAX v1	TPR	aerobic_anoxygenic_phototrophy	
+FAPROTAX v1	TPR	aerobic_chemoheterotrophy	0.300884955752212
+FAPROTAX v1	TPR	aerobic_nitrite_oxidation	
+FAPROTAX v1	TPR	anammox	
+FAPROTAX v1	TPR	animal_parasites_or_symbionts	0.121739130434783
+FAPROTAX v1	TPR	anoxygenic_photoautotrophy	
+FAPROTAX v1	TPR	anoxygenic_photoautotrophy_Fe_oxidizing	
+FAPROTAX v1	TPR	anoxygenic_photoautotrophy_H2_oxidizing	
+FAPROTAX v1	TPR	anoxygenic_photoautotrophy_S_oxidizing	
+FAPROTAX v1	TPR	aromatic_compound_degradation	0.0925925925925926
+FAPROTAX v1	TPR	arsenate_respiration	
+FAPROTAX v1	TPR	arsenite_oxidation_energy_yielding	
+FAPROTAX v1	TPR	cellulolysis	0.01875
+FAPROTAX v1	TPR	chemoheterotrophy	0.370689655172414
+FAPROTAX v1	TPR	chitinolysis	0.0166666666666667
+FAPROTAX v1	TPR	dark_hydrogen_oxidation	0.16
+FAPROTAX v1	TPR	dark_oxidation_of_sulfur_compounds	0.12
+FAPROTAX v1	TPR	dark_sulfide_oxidation	
+FAPROTAX v1	TPR	dark_sulfite_oxidation	
+FAPROTAX v1	TPR	dark_sulfur_oxidation	
+FAPROTAX v1	TPR	dark_thiosulfate_oxidation	
+FAPROTAX v1	TPR	fermentation	0.18974358974359
+FAPROTAX v1	TPR	fumarate_respiration	
+FAPROTAX v1	TPR	human_associated	0.05
+FAPROTAX v1	TPR	human_gut	0.05
+FAPROTAX v1	TPR	human_pathogens_all	0.1
+FAPROTAX v1	TPR	hydrocarbon_degradation	0.114285714285714
+FAPROTAX v1	TPR	hydrogenotrophic_methanogenesis	
+FAPROTAX v1	TPR	iron_respiration	
+FAPROTAX v1	TPR	knallgas_bacteria	
+FAPROTAX v1	TPR	mammal_gut	0.0727272727272727
+FAPROTAX v1	TPR	manganese_oxidation	
+FAPROTAX v1	TPR	manganese_respiration	
+FAPROTAX v1	TPR	methanogenesis	
+FAPROTAX v1	TPR	methanogenesis_by_CO2_reduction_with_H2	
+FAPROTAX v1	TPR	methanogenesis_by_disproportionation_of_methyl_groups	
+FAPROTAX v1	TPR	methanogenesis_by_reduction_of_methyl_compounds_with_H2	
+FAPROTAX v1	TPR	methanogenesis_using_formate	
+FAPROTAX v1	TPR	methanol_oxidation	0.15
+FAPROTAX v1	TPR	methylotrophy	0.188888888888889
+FAPROTAX v1	TPR	nitrate_ammonification	
+FAPROTAX v1	TPR	nitrate_denitrification	0
+FAPROTAX v1	TPR	nitrate_reduction	0.0504201680672269
+FAPROTAX v1	TPR	nitrate_respiration	0.0307692307692308
+FAPROTAX v1	TPR	nitrification	
+FAPROTAX v1	TPR	nitrite_ammonification	
+FAPROTAX v1	TPR	nitrite_denitrification	
+FAPROTAX v1	TPR	nitrite_respiration	0.1625
+FAPROTAX v1	TPR	nitrogen_fixation	0.0666666666666667
+FAPROTAX v1	TPR	nitrogen_respiration	0.0428571428571429
+FAPROTAX v1	TPR	nitrous_oxide_denitrification	
+FAPROTAX v1	TPR	oxygenic_photoautotrophy	1
+FAPROTAX v1	TPR	photoautotrophy	0.8125
+FAPROTAX v1	TPR	photoheterotrophy	0.1
+FAPROTAX v1	TPR	phototrophy	0.645454545454546
+FAPROTAX v1	TPR	reductive_acetogenesis	
+FAPROTAX v1	TPR	respiration_of_sulfur_compounds	0.272727272727273
+FAPROTAX v1	TPR	sulfate_respiration	0.6
+FAPROTAX v1	TPR	sulfite_respiration	
+FAPROTAX v1	TPR	sulfur_respiration	0.257142857142857
+FAPROTAX v1	TPR	thiosulfate_respiration	0
+FAPROTAX v1	TPR	ureolysis	0.0180327868852459
+FAPROTAX v1	TPR	xylanolysis	0.0333333333333333
+FAPROTAX2-mapper (sequence-based)	BA	acetoclastic_methanogenesis	
+FAPROTAX2-mapper (sequence-based)	BA	aerobic_ammonia_oxidation	
+FAPROTAX2-mapper (sequence-based)	BA	aerobic_anoxygenic_phototrophy	
+FAPROTAX2-mapper (sequence-based)	BA	aerobic_chemoheterotrophy	0.961578171091445
+FAPROTAX2-mapper (sequence-based)	BA	aerobic_nitrite_oxidation	
+FAPROTAX2-mapper (sequence-based)	BA	anammox	
+FAPROTAX2-mapper (sequence-based)	BA	animal_parasites_or_symbionts	
+FAPROTAX2-mapper (sequence-based)	BA	anoxygenic_photoautotrophy	
+FAPROTAX2-mapper (sequence-based)	BA	anoxygenic_photoautotrophy_Fe_oxidizing	
+FAPROTAX2-mapper (sequence-based)	BA	anoxygenic_photoautotrophy_H2_oxidizing	
+FAPROTAX2-mapper (sequence-based)	BA	anoxygenic_photoautotrophy_S_oxidizing	
+FAPROTAX2-mapper (sequence-based)	BA	aromatic_compound_degradation	
+FAPROTAX2-mapper (sequence-based)	BA	arsenate_respiration	
+FAPROTAX2-mapper (sequence-based)	BA	arsenite_oxidation_energy_yielding	
+FAPROTAX2-mapper (sequence-based)	BA	cellulolysis	0.595030737704918
+FAPROTAX2-mapper (sequence-based)	BA	chemoheterotrophy	0.902545155993432
+FAPROTAX2-mapper (sequence-based)	BA	chitinolysis	0.650378787878788
+FAPROTAX2-mapper (sequence-based)	BA	dark_hydrogen_oxidation	0.946470588235294
+FAPROTAX2-mapper (sequence-based)	BA	dark_oxidation_of_sulfur_compounds	0.77
+FAPROTAX2-mapper (sequence-based)	BA	dark_sulfide_oxidation	
+FAPROTAX2-mapper (sequence-based)	BA	dark_sulfite_oxidation	
+FAPROTAX2-mapper (sequence-based)	BA	dark_sulfur_oxidation	
+FAPROTAX2-mapper (sequence-based)	BA	dark_thiosulfate_oxidation	
+FAPROTAX2-mapper (sequence-based)	BA	fermentation	0.741898788661379
+FAPROTAX2-mapper (sequence-based)	BA	fumarate_respiration	
+FAPROTAX2-mapper (sequence-based)	BA	human_associated	
+FAPROTAX2-mapper (sequence-based)	BA	human_gut	
+FAPROTAX2-mapper (sequence-based)	BA	human_pathogens_all	
+FAPROTAX2-mapper (sequence-based)	BA	hydrocarbon_degradation	
+FAPROTAX2-mapper (sequence-based)	BA	hydrogenotrophic_methanogenesis	
+FAPROTAX2-mapper (sequence-based)	BA	iron_respiration	
+FAPROTAX2-mapper (sequence-based)	BA	knallgas_bacteria	
+FAPROTAX2-mapper (sequence-based)	BA	mammal_gut	
+FAPROTAX2-mapper (sequence-based)	BA	manganese_oxidation	
+FAPROTAX2-mapper (sequence-based)	BA	manganese_respiration	
+FAPROTAX2-mapper (sequence-based)	BA	methanogenesis	
+FAPROTAX2-mapper (sequence-based)	BA	methanogenesis_by_CO2_reduction_with_H2	
+FAPROTAX2-mapper (sequence-based)	BA	methanogenesis_by_disproportionation_of_methyl_groups	
+FAPROTAX2-mapper (sequence-based)	BA	methanogenesis_by_reduction_of_methyl_compounds_with_H2	
+FAPROTAX2-mapper (sequence-based)	BA	methanogenesis_using_formate	
+FAPROTAX2-mapper (sequence-based)	BA	methanol_oxidation	0.85
+FAPROTAX2-mapper (sequence-based)	BA	methylotrophy	
+FAPROTAX2-mapper (sequence-based)	BA	nitrate_ammonification	
+FAPROTAX2-mapper (sequence-based)	BA	nitrate_denitrification	0.744368701837582
+FAPROTAX2-mapper (sequence-based)	BA	nitrate_reduction	0.654140609732265
+FAPROTAX2-mapper (sequence-based)	BA	nitrate_respiration	0.68142112125163
+FAPROTAX2-mapper (sequence-based)	BA	nitrification	
+FAPROTAX2-mapper (sequence-based)	BA	nitrite_ammonification	
+FAPROTAX2-mapper (sequence-based)	BA	nitrite_denitrification	
+FAPROTAX2-mapper (sequence-based)	BA	nitrite_respiration	0.798266423357664
+FAPROTAX2-mapper (sequence-based)	BA	nitrogen_fixation	0.716666666666667
+FAPROTAX2-mapper (sequence-based)	BA	nitrogen_respiration	0.651382488479263
+FAPROTAX2-mapper (sequence-based)	BA	nitrous_oxide_denitrification	
+FAPROTAX2-mapper (sequence-based)	BA	oxygenic_photoautotrophy	1
+FAPROTAX2-mapper (sequence-based)	BA	photoautotrophy	0.962627551020408
+FAPROTAX2-mapper (sequence-based)	BA	photoheterotrophy	0.893958333333333
+FAPROTAX2-mapper (sequence-based)	BA	phototrophy	0.953737373737374
+FAPROTAX2-mapper (sequence-based)	BA	reductive_acetogenesis	
+FAPROTAX2-mapper (sequence-based)	BA	respiration_of_sulfur_compounds	0.863033395176252
+FAPROTAX2-mapper (sequence-based)	BA	sulfate_respiration	0.929074074074074
+FAPROTAX2-mapper (sequence-based)	BA	sulfite_respiration	
+FAPROTAX2-mapper (sequence-based)	BA	sulfur_respiration	0.86583850931677
+FAPROTAX2-mapper (sequence-based)	BA	thiosulfate_respiration	0.893055555555556
+FAPROTAX2-mapper (sequence-based)	BA	ureolysis	0.652760763826338
+FAPROTAX2-mapper (sequence-based)	BA	xylanolysis	0.65
+FAPROTAX2-mapper (sequence-based)	TNR	acetoclastic_methanogenesis	0.999285714285714
+FAPROTAX2-mapper (sequence-based)	TNR	aerobic_ammonia_oxidation	1
+FAPROTAX2-mapper (sequence-based)	TNR	aerobic_anoxygenic_phototrophy	0.990476190476191
+FAPROTAX2-mapper (sequence-based)	TNR	aerobic_chemoheterotrophy	0.933333333333333
+FAPROTAX2-mapper (sequence-based)	TNR	aerobic_nitrite_oxidation	1
+FAPROTAX2-mapper (sequence-based)	TNR	anammox	0.999166666666667
+FAPROTAX2-mapper (sequence-based)	TNR	animal_parasites_or_symbionts	
+FAPROTAX2-mapper (sequence-based)	TNR	anoxygenic_photoautotrophy	0.976363636363636
+FAPROTAX2-mapper (sequence-based)	TNR	anoxygenic_photoautotrophy_Fe_oxidizing	1
+FAPROTAX2-mapper (sequence-based)	TNR	anoxygenic_photoautotrophy_H2_oxidizing	0.987272727272727
+FAPROTAX2-mapper (sequence-based)	TNR	anoxygenic_photoautotrophy_S_oxidizing	0.987037037037037
+FAPROTAX2-mapper (sequence-based)	TNR	aromatic_compound_degradation	
+FAPROTAX2-mapper (sequence-based)	TNR	arsenate_respiration	0.999159663865546
+FAPROTAX2-mapper (sequence-based)	TNR	arsenite_oxidation_energy_yielding	1
+FAPROTAX2-mapper (sequence-based)	TNR	cellulolysis	0.921311475409836
+FAPROTAX2-mapper (sequence-based)	TNR	chemoheterotrophy	0.814285714285714
+FAPROTAX2-mapper (sequence-based)	TNR	chitinolysis	0.984090909090909
+FAPROTAX2-mapper (sequence-based)	TNR	dark_hydrogen_oxidation	0.952941176470588
+FAPROTAX2-mapper (sequence-based)	TNR	dark_oxidation_of_sulfur_compounds	1
+FAPROTAX2-mapper (sequence-based)	TNR	dark_sulfide_oxidation	1
+FAPROTAX2-mapper (sequence-based)	TNR	dark_sulfite_oxidation	1
+FAPROTAX2-mapper (sequence-based)	TNR	dark_sulfur_oxidation	0.986666666666667
+FAPROTAX2-mapper (sequence-based)	TNR	dark_thiosulfate_oxidation	0.976470588235294
+FAPROTAX2-mapper (sequence-based)	TNR	fermentation	0.917985611510791
+FAPROTAX2-mapper (sequence-based)	TNR	fumarate_respiration	0.973076923076923
+FAPROTAX2-mapper (sequence-based)	TNR	human_associated	
+FAPROTAX2-mapper (sequence-based)	TNR	human_gut	
+FAPROTAX2-mapper (sequence-based)	TNR	human_pathogens_all	
+FAPROTAX2-mapper (sequence-based)	TNR	hydrocarbon_degradation	
+FAPROTAX2-mapper (sequence-based)	TNR	hydrogenotrophic_methanogenesis	0.998568019093079
+FAPROTAX2-mapper (sequence-based)	TNR	iron_respiration	1
+FAPROTAX2-mapper (sequence-based)	TNR	knallgas_bacteria	1
+FAPROTAX2-mapper (sequence-based)	TNR	mammal_gut	
+FAPROTAX2-mapper (sequence-based)	TNR	manganese_oxidation	1
+FAPROTAX2-mapper (sequence-based)	TNR	manganese_respiration	0.9875
+FAPROTAX2-mapper (sequence-based)	TNR	methanogenesis	1
+FAPROTAX2-mapper (sequence-based)	TNR	methanogenesis_by_CO2_reduction_with_H2	0.999043062200957
+FAPROTAX2-mapper (sequence-based)	TNR	methanogenesis_by_disproportionation_of_methyl_groups	0.999522673031026
+FAPROTAX2-mapper (sequence-based)	TNR	methanogenesis_by_reduction_of_methyl_compounds_with_H2	0.999047619047619
+FAPROTAX2-mapper (sequence-based)	TNR	methanogenesis_using_formate	0.998568019093079
+FAPROTAX2-mapper (sequence-based)	TNR	methanol_oxidation	0.9
+FAPROTAX2-mapper (sequence-based)	TNR	methylotrophy	
+FAPROTAX2-mapper (sequence-based)	TNR	nitrate_ammonification	0.995726495726496
+FAPROTAX2-mapper (sequence-based)	TNR	nitrate_denitrification	0.960165975103734
+FAPROTAX2-mapper (sequence-based)	TNR	nitrate_reduction	0.788953488372093
+FAPROTAX2-mapper (sequence-based)	TNR	nitrate_respiration	0.947457627118644
+FAPROTAX2-mapper (sequence-based)	TNR	nitrification	1
+FAPROTAX2-mapper (sequence-based)	TNR	nitrite_ammonification	0.997391304347826
+FAPROTAX2-mapper (sequence-based)	TNR	nitrite_denitrification	0.958620689655172
+FAPROTAX2-mapper (sequence-based)	TNR	nitrite_respiration	0.971532846715328
+FAPROTAX2-mapper (sequence-based)	TNR	nitrogen_fixation	0.8
+FAPROTAX2-mapper (sequence-based)	TNR	nitrogen_respiration	0.974193548387097
+FAPROTAX2-mapper (sequence-based)	TNR	nitrous_oxide_denitrification	1
+FAPROTAX2-mapper (sequence-based)	TNR	oxygenic_photoautotrophy	1
+FAPROTAX2-mapper (sequence-based)	TNR	photoautotrophy	0.987755102040816
+FAPROTAX2-mapper (sequence-based)	TNR	photoheterotrophy	0.947916666666667
+FAPROTAX2-mapper (sequence-based)	TNR	phototrophy	0.971111111111111
+FAPROTAX2-mapper (sequence-based)	TNR	reductive_acetogenesis	1
+FAPROTAX2-mapper (sequence-based)	TNR	respiration_of_sulfur_compounds	0.980612244897959
+FAPROTAX2-mapper (sequence-based)	TNR	sulfate_respiration	0.998148148148148
+FAPROTAX2-mapper (sequence-based)	TNR	sulfite_respiration	0.986
+FAPROTAX2-mapper (sequence-based)	TNR	sulfur_respiration	0.960248447204969
+FAPROTAX2-mapper (sequence-based)	TNR	thiosulfate_respiration	0.975
+FAPROTAX2-mapper (sequence-based)	TNR	ureolysis	0.91043956043956
+FAPROTAX2-mapper (sequence-based)	TNR	xylanolysis	0.8
+FAPROTAX2-mapper (sequence-based)	TPR	acetoclastic_methanogenesis	
+FAPROTAX2-mapper (sequence-based)	TPR	aerobic_ammonia_oxidation	
+FAPROTAX2-mapper (sequence-based)	TPR	aerobic_anoxygenic_phototrophy	
+FAPROTAX2-mapper (sequence-based)	TPR	aerobic_chemoheterotrophy	0.989823008849558
+FAPROTAX2-mapper (sequence-based)	TPR	aerobic_nitrite_oxidation	
+FAPROTAX2-mapper (sequence-based)	TPR	anammox	
+FAPROTAX2-mapper (sequence-based)	TPR	animal_parasites_or_symbionts	0.647826086956522
+FAPROTAX2-mapper (sequence-based)	TPR	anoxygenic_photoautotrophy	
+FAPROTAX2-mapper (sequence-based)	TPR	anoxygenic_photoautotrophy_Fe_oxidizing	
+FAPROTAX2-mapper (sequence-based)	TPR	anoxygenic_photoautotrophy_H2_oxidizing	
+FAPROTAX2-mapper (sequence-based)	TPR	anoxygenic_photoautotrophy_S_oxidizing	
+FAPROTAX2-mapper (sequence-based)	TPR	aromatic_compound_degradation	0.892592592592593
+FAPROTAX2-mapper (sequence-based)	TPR	arsenate_respiration	
+FAPROTAX2-mapper (sequence-based)	TPR	arsenite_oxidation_energy_yielding	
+FAPROTAX2-mapper (sequence-based)	TPR	cellulolysis	0.26875
+FAPROTAX2-mapper (sequence-based)	TPR	chemoheterotrophy	0.99080459770115
+FAPROTAX2-mapper (sequence-based)	TPR	chitinolysis	0.316666666666667
+FAPROTAX2-mapper (sequence-based)	TPR	dark_hydrogen_oxidation	0.94
+FAPROTAX2-mapper (sequence-based)	TPR	dark_oxidation_of_sulfur_compounds	0.54
+FAPROTAX2-mapper (sequence-based)	TPR	dark_sulfide_oxidation	
+FAPROTAX2-mapper (sequence-based)	TPR	dark_sulfite_oxidation	
+FAPROTAX2-mapper (sequence-based)	TPR	dark_sulfur_oxidation	
+FAPROTAX2-mapper (sequence-based)	TPR	dark_thiosulfate_oxidation	
+FAPROTAX2-mapper (sequence-based)	TPR	fermentation	0.565811965811966
+FAPROTAX2-mapper (sequence-based)	TPR	fumarate_respiration	
+FAPROTAX2-mapper (sequence-based)	TPR	human_associated	0.529166666666667
+FAPROTAX2-mapper (sequence-based)	TPR	human_gut	0.366666666666667
+FAPROTAX2-mapper (sequence-based)	TPR	human_pathogens_all	0.5
+FAPROTAX2-mapper (sequence-based)	TPR	hydrocarbon_degradation	0.485714285714286
+FAPROTAX2-mapper (sequence-based)	TPR	hydrogenotrophic_methanogenesis	
+FAPROTAX2-mapper (sequence-based)	TPR	iron_respiration	
+FAPROTAX2-mapper (sequence-based)	TPR	knallgas_bacteria	
+FAPROTAX2-mapper (sequence-based)	TPR	mammal_gut	0.554545454545455
+FAPROTAX2-mapper (sequence-based)	TPR	manganese_oxidation	
+FAPROTAX2-mapper (sequence-based)	TPR	manganese_respiration	
+FAPROTAX2-mapper (sequence-based)	TPR	methanogenesis	
+FAPROTAX2-mapper (sequence-based)	TPR	methanogenesis_by_CO2_reduction_with_H2	
+FAPROTAX2-mapper (sequence-based)	TPR	methanogenesis_by_disproportionation_of_methyl_groups	
+FAPROTAX2-mapper (sequence-based)	TPR	methanogenesis_by_reduction_of_methyl_compounds_with_H2	
+FAPROTAX2-mapper (sequence-based)	TPR	methanogenesis_using_formate	
+FAPROTAX2-mapper (sequence-based)	TPR	methanol_oxidation	0.8
+FAPROTAX2-mapper (sequence-based)	TPR	methylotrophy	0.855555555555556
+FAPROTAX2-mapper (sequence-based)	TPR	nitrate_ammonification	
+FAPROTAX2-mapper (sequence-based)	TPR	nitrate_denitrification	0.528571428571429
+FAPROTAX2-mapper (sequence-based)	TPR	nitrate_reduction	0.519327731092437
+FAPROTAX2-mapper (sequence-based)	TPR	nitrate_respiration	0.415384615384615
+FAPROTAX2-mapper (sequence-based)	TPR	nitrification	
+FAPROTAX2-mapper (sequence-based)	TPR	nitrite_ammonification	
+FAPROTAX2-mapper (sequence-based)	TPR	nitrite_denitrification	
+FAPROTAX2-mapper (sequence-based)	TPR	nitrite_respiration	0.625
+FAPROTAX2-mapper (sequence-based)	TPR	nitrogen_fixation	0.633333333333333
+FAPROTAX2-mapper (sequence-based)	TPR	nitrogen_respiration	0.328571428571429
+FAPROTAX2-mapper (sequence-based)	TPR	nitrous_oxide_denitrification	
+FAPROTAX2-mapper (sequence-based)	TPR	oxygenic_photoautotrophy	1
+FAPROTAX2-mapper (sequence-based)	TPR	photoautotrophy	0.9375
+FAPROTAX2-mapper (sequence-based)	TPR	photoheterotrophy	0.84
+FAPROTAX2-mapper (sequence-based)	TPR	phototrophy	0.936363636363636
+FAPROTAX2-mapper (sequence-based)	TPR	reductive_acetogenesis	
+FAPROTAX2-mapper (sequence-based)	TPR	respiration_of_sulfur_compounds	0.745454545454546
+FAPROTAX2-mapper (sequence-based)	TPR	sulfate_respiration	0.86
+FAPROTAX2-mapper (sequence-based)	TPR	sulfite_respiration	
+FAPROTAX2-mapper (sequence-based)	TPR	sulfur_respiration	0.771428571428571
+FAPROTAX2-mapper (sequence-based)	TPR	thiosulfate_respiration	0.811111111111111
+FAPROTAX2-mapper (sequence-based)	TPR	ureolysis	0.395081967213115
+FAPROTAX2-mapper (sequence-based)	TPR	xylanolysis	0.5
+FAPROTAX2-mapper (taxonomy-based)	BA	acetoclastic_methanogenesis	
+FAPROTAX2-mapper (taxonomy-based)	BA	aerobic_ammonia_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	BA	aerobic_anoxygenic_phototrophy	
+FAPROTAX2-mapper (taxonomy-based)	BA	aerobic_chemoheterotrophy	0.948259587020649
+FAPROTAX2-mapper (taxonomy-based)	BA	aerobic_nitrite_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	BA	anammox	
+FAPROTAX2-mapper (taxonomy-based)	BA	animal_parasites_or_symbionts	
+FAPROTAX2-mapper (taxonomy-based)	BA	anoxygenic_photoautotrophy	
+FAPROTAX2-mapper (taxonomy-based)	BA	anoxygenic_photoautotrophy_Fe_oxidizing	
+FAPROTAX2-mapper (taxonomy-based)	BA	anoxygenic_photoautotrophy_H2_oxidizing	
+FAPROTAX2-mapper (taxonomy-based)	BA	anoxygenic_photoautotrophy_S_oxidizing	
+FAPROTAX2-mapper (taxonomy-based)	BA	aromatic_compound_degradation	
+FAPROTAX2-mapper (taxonomy-based)	BA	arsenate_respiration	
+FAPROTAX2-mapper (taxonomy-based)	BA	arsenite_oxidation_energy_yielding	
+FAPROTAX2-mapper (taxonomy-based)	BA	cellulolysis	0.591034836065574
+FAPROTAX2-mapper (taxonomy-based)	BA	chemoheterotrophy	0.916974548440066
+FAPROTAX2-mapper (taxonomy-based)	BA	chitinolysis	0.637121212121212
+FAPROTAX2-mapper (taxonomy-based)	BA	dark_hydrogen_oxidation	0.852352941176471
+FAPROTAX2-mapper (taxonomy-based)	BA	dark_oxidation_of_sulfur_compounds	0.74
+FAPROTAX2-mapper (taxonomy-based)	BA	dark_sulfide_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	BA	dark_sulfite_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	BA	dark_sulfur_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	BA	dark_thiosulfate_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	BA	fermentation	0.742387628358851
+FAPROTAX2-mapper (taxonomy-based)	BA	fumarate_respiration	
+FAPROTAX2-mapper (taxonomy-based)	BA	human_associated	
+FAPROTAX2-mapper (taxonomy-based)	BA	human_gut	
+FAPROTAX2-mapper (taxonomy-based)	BA	human_pathogens_all	
+FAPROTAX2-mapper (taxonomy-based)	BA	hydrocarbon_degradation	
+FAPROTAX2-mapper (taxonomy-based)	BA	hydrogenotrophic_methanogenesis	
+FAPROTAX2-mapper (taxonomy-based)	BA	iron_respiration	
+FAPROTAX2-mapper (taxonomy-based)	BA	knallgas_bacteria	
+FAPROTAX2-mapper (taxonomy-based)	BA	mammal_gut	
+FAPROTAX2-mapper (taxonomy-based)	BA	manganese_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	BA	manganese_respiration	
+FAPROTAX2-mapper (taxonomy-based)	BA	methanogenesis	
+FAPROTAX2-mapper (taxonomy-based)	BA	methanogenesis_by_CO2_reduction_with_H2	
+FAPROTAX2-mapper (taxonomy-based)	BA	methanogenesis_by_disproportionation_of_methyl_groups	
+FAPROTAX2-mapper (taxonomy-based)	BA	methanogenesis_by_reduction_of_methyl_compounds_with_H2	
+FAPROTAX2-mapper (taxonomy-based)	BA	methanogenesis_using_formate	
+FAPROTAX2-mapper (taxonomy-based)	BA	methanol_oxidation	0.875
+FAPROTAX2-mapper (taxonomy-based)	BA	methylotrophy	
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrate_ammonification	
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrate_denitrification	0.579697688203912
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrate_reduction	0.621286886847762
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrate_respiration	0.638347457627119
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrification	
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrite_ammonification	
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrite_denitrification	
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrite_respiration	0.713366788321168
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrogen_fixation	0.668333333333333
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrogen_respiration	0.58168202764977
+FAPROTAX2-mapper (taxonomy-based)	BA	nitrous_oxide_denitrification	
+FAPROTAX2-mapper (taxonomy-based)	BA	oxygenic_photoautotrophy	1
+FAPROTAX2-mapper (taxonomy-based)	BA	photoautotrophy	0.956377551020408
+FAPROTAX2-mapper (taxonomy-based)	BA	photoheterotrophy	0.7275
+FAPROTAX2-mapper (taxonomy-based)	BA	phototrophy	0.962626262626263
+FAPROTAX2-mapper (taxonomy-based)	BA	reductive_acetogenesis	
+FAPROTAX2-mapper (taxonomy-based)	BA	respiration_of_sulfur_compounds	0.838566790352505
+FAPROTAX2-mapper (taxonomy-based)	BA	sulfate_respiration	0.919691358024691
+FAPROTAX2-mapper (taxonomy-based)	BA	sulfite_respiration	
+FAPROTAX2-mapper (taxonomy-based)	BA	sulfur_respiration	0.840683229813665
+FAPROTAX2-mapper (taxonomy-based)	BA	thiosulfate_respiration	0.868709150326797
+FAPROTAX2-mapper (taxonomy-based)	BA	ureolysis	0.599860385516123
+FAPROTAX2-mapper (taxonomy-based)	BA	xylanolysis	0.630701754385965
+FAPROTAX2-mapper (taxonomy-based)	TNR	acetoclastic_methanogenesis	0.999285714285714
+FAPROTAX2-mapper (taxonomy-based)	TNR	aerobic_ammonia_oxidation	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	aerobic_anoxygenic_phototrophy	0.991666666666667
+FAPROTAX2-mapper (taxonomy-based)	TNR	aerobic_chemoheterotrophy	0.913333333333333
+FAPROTAX2-mapper (taxonomy-based)	TNR	aerobic_nitrite_oxidation	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	anammox	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	animal_parasites_or_symbionts	
+FAPROTAX2-mapper (taxonomy-based)	TNR	anoxygenic_photoautotrophy	0.983636363636364
+FAPROTAX2-mapper (taxonomy-based)	TNR	anoxygenic_photoautotrophy_Fe_oxidizing	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	anoxygenic_photoautotrophy_H2_oxidizing	0.990909090909091
+FAPROTAX2-mapper (taxonomy-based)	TNR	anoxygenic_photoautotrophy_S_oxidizing	0.990740740740741
+FAPROTAX2-mapper (taxonomy-based)	TNR	aromatic_compound_degradation	
+FAPROTAX2-mapper (taxonomy-based)	TNR	arsenate_respiration	0.998319327731092
+FAPROTAX2-mapper (taxonomy-based)	TNR	arsenite_oxidation_energy_yielding	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	cellulolysis	0.950819672131147
+FAPROTAX2-mapper (taxonomy-based)	TNR	chemoheterotrophy	0.842857142857143
+FAPROTAX2-mapper (taxonomy-based)	TNR	chitinolysis	0.990909090909091
+FAPROTAX2-mapper (taxonomy-based)	TNR	dark_hydrogen_oxidation	0.964705882352941
+FAPROTAX2-mapper (taxonomy-based)	TNR	dark_oxidation_of_sulfur_compounds	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	dark_sulfide_oxidation	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	dark_sulfite_oxidation	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	dark_sulfur_oxidation	0.986666666666667
+FAPROTAX2-mapper (taxonomy-based)	TNR	dark_thiosulfate_oxidation	0.976470588235294
+FAPROTAX2-mapper (taxonomy-based)	TNR	fermentation	0.944604316546762
+FAPROTAX2-mapper (taxonomy-based)	TNR	fumarate_respiration	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	human_associated	
+FAPROTAX2-mapper (taxonomy-based)	TNR	human_gut	
+FAPROTAX2-mapper (taxonomy-based)	TNR	human_pathogens_all	
+FAPROTAX2-mapper (taxonomy-based)	TNR	hydrocarbon_degradation	
+FAPROTAX2-mapper (taxonomy-based)	TNR	hydrogenotrophic_methanogenesis	0.999284009546539
+FAPROTAX2-mapper (taxonomy-based)	TNR	iron_respiration	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	knallgas_bacteria	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	mammal_gut	
+FAPROTAX2-mapper (taxonomy-based)	TNR	manganese_oxidation	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	manganese_respiration	0.993333333333333
+FAPROTAX2-mapper (taxonomy-based)	TNR	methanogenesis	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	methanogenesis_by_CO2_reduction_with_H2	0.998803827751196
+FAPROTAX2-mapper (taxonomy-based)	TNR	methanogenesis_by_disproportionation_of_methyl_groups	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	methanogenesis_by_reduction_of_methyl_compounds_with_H2	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	methanogenesis_using_formate	0.998568019093079
+FAPROTAX2-mapper (taxonomy-based)	TNR	methanol_oxidation	0.95
+FAPROTAX2-mapper (taxonomy-based)	TNR	methylotrophy	
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrate_ammonification	0.997435897435897
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrate_denitrification	0.987966804979253
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrate_reduction	0.838372093023256
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrate_respiration	0.976694915254237
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrification	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrite_ammonification	0.989565217391304
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrite_denitrification	0.980689655172414
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrite_respiration	0.964233576642336
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrogen_fixation	0.92
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrogen_respiration	0.991935483870968
+FAPROTAX2-mapper (taxonomy-based)	TNR	nitrous_oxide_denitrification	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	oxygenic_photoautotrophy	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	photoautotrophy	0.987755102040816
+FAPROTAX2-mapper (taxonomy-based)	TNR	photoheterotrophy	0.975
+FAPROTAX2-mapper (taxonomy-based)	TNR	phototrophy	0.988888888888889
+FAPROTAX2-mapper (taxonomy-based)	TNR	reductive_acetogenesis	1
+FAPROTAX2-mapper (taxonomy-based)	TNR	respiration_of_sulfur_compounds	0.986224489795918
+FAPROTAX2-mapper (taxonomy-based)	TNR	sulfate_respiration	0.999382716049383
+FAPROTAX2-mapper (taxonomy-based)	TNR	sulfite_respiration	0.9895
+FAPROTAX2-mapper (taxonomy-based)	TNR	sulfur_respiration	0.967080745341615
+FAPROTAX2-mapper (taxonomy-based)	TNR	thiosulfate_respiration	0.981862745098039
+FAPROTAX2-mapper (taxonomy-based)	TNR	ureolysis	0.948901098901099
+FAPROTAX2-mapper (taxonomy-based)	TNR	xylanolysis	0.894736842105263
+FAPROTAX2-mapper (taxonomy-based)	TPR	acetoclastic_methanogenesis	
+FAPROTAX2-mapper (taxonomy-based)	TPR	aerobic_ammonia_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	TPR	aerobic_anoxygenic_phototrophy	
+FAPROTAX2-mapper (taxonomy-based)	TPR	aerobic_chemoheterotrophy	0.983185840707965
+FAPROTAX2-mapper (taxonomy-based)	TPR	aerobic_nitrite_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	TPR	anammox	
+FAPROTAX2-mapper (taxonomy-based)	TPR	animal_parasites_or_symbionts	0.4
+FAPROTAX2-mapper (taxonomy-based)	TPR	anoxygenic_photoautotrophy	
+FAPROTAX2-mapper (taxonomy-based)	TPR	anoxygenic_photoautotrophy_Fe_oxidizing	
+FAPROTAX2-mapper (taxonomy-based)	TPR	anoxygenic_photoautotrophy_H2_oxidizing	
+FAPROTAX2-mapper (taxonomy-based)	TPR	anoxygenic_photoautotrophy_S_oxidizing	
+FAPROTAX2-mapper (taxonomy-based)	TPR	aromatic_compound_degradation	0
+FAPROTAX2-mapper (taxonomy-based)	TPR	arsenate_respiration	
+FAPROTAX2-mapper (taxonomy-based)	TPR	arsenite_oxidation_energy_yielding	
+FAPROTAX2-mapper (taxonomy-based)	TPR	cellulolysis	0.23125
+FAPROTAX2-mapper (taxonomy-based)	TPR	chemoheterotrophy	0.991091954022989
+FAPROTAX2-mapper (taxonomy-based)	TPR	chitinolysis	0.283333333333333
+FAPROTAX2-mapper (taxonomy-based)	TPR	dark_hydrogen_oxidation	0.74
+FAPROTAX2-mapper (taxonomy-based)	TPR	dark_oxidation_of_sulfur_compounds	0.48
+FAPROTAX2-mapper (taxonomy-based)	TPR	dark_sulfide_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	TPR	dark_sulfite_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	TPR	dark_sulfur_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	TPR	dark_thiosulfate_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	TPR	fermentation	0.54017094017094
+FAPROTAX2-mapper (taxonomy-based)	TPR	fumarate_respiration	
+FAPROTAX2-mapper (taxonomy-based)	TPR	human_associated	0.204166666666667
+FAPROTAX2-mapper (taxonomy-based)	TPR	human_gut	0.166666666666667
+FAPROTAX2-mapper (taxonomy-based)	TPR	human_pathogens_all	0.04
+FAPROTAX2-mapper (taxonomy-based)	TPR	hydrocarbon_degradation	0.185714285714286
+FAPROTAX2-mapper (taxonomy-based)	TPR	hydrogenotrophic_methanogenesis	
+FAPROTAX2-mapper (taxonomy-based)	TPR	iron_respiration	
+FAPROTAX2-mapper (taxonomy-based)	TPR	knallgas_bacteria	
+FAPROTAX2-mapper (taxonomy-based)	TPR	mammal_gut	0.318181818181818
+FAPROTAX2-mapper (taxonomy-based)	TPR	manganese_oxidation	
+FAPROTAX2-mapper (taxonomy-based)	TPR	manganese_respiration	
+FAPROTAX2-mapper (taxonomy-based)	TPR	methanogenesis	
+FAPROTAX2-mapper (taxonomy-based)	TPR	methanogenesis_by_CO2_reduction_with_H2	
+FAPROTAX2-mapper (taxonomy-based)	TPR	methanogenesis_by_disproportionation_of_methyl_groups	
+FAPROTAX2-mapper (taxonomy-based)	TPR	methanogenesis_by_reduction_of_methyl_compounds_with_H2	
+FAPROTAX2-mapper (taxonomy-based)	TPR	methanogenesis_using_formate	
+FAPROTAX2-mapper (taxonomy-based)	TPR	methanol_oxidation	0.8
+FAPROTAX2-mapper (taxonomy-based)	TPR	methylotrophy	0.677777777777778
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrate_ammonification	
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrate_denitrification	0.171428571428571
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrate_reduction	0.404201680672269
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrate_respiration	0.3
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrification	
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrite_ammonification	
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrite_denitrification	
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrite_respiration	0.4625
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrogen_fixation	0.416666666666667
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrogen_respiration	0.171428571428571
+FAPROTAX2-mapper (taxonomy-based)	TPR	nitrous_oxide_denitrification	
+FAPROTAX2-mapper (taxonomy-based)	TPR	oxygenic_photoautotrophy	1
+FAPROTAX2-mapper (taxonomy-based)	TPR	photoautotrophy	0.925
+FAPROTAX2-mapper (taxonomy-based)	TPR	photoheterotrophy	0.48
+FAPROTAX2-mapper (taxonomy-based)	TPR	phototrophy	0.936363636363636
+FAPROTAX2-mapper (taxonomy-based)	TPR	reductive_acetogenesis	
+FAPROTAX2-mapper (taxonomy-based)	TPR	respiration_of_sulfur_compounds	0.690909090909091
+FAPROTAX2-mapper (taxonomy-based)	TPR	sulfate_respiration	0.84
+FAPROTAX2-mapper (taxonomy-based)	TPR	sulfite_respiration	
+FAPROTAX2-mapper (taxonomy-based)	TPR	sulfur_respiration	0.714285714285714
+FAPROTAX2-mapper (taxonomy-based)	TPR	thiosulfate_respiration	0.755555555555556
+FAPROTAX2-mapper (taxonomy-based)	TPR	ureolysis	0.250819672131148
+FAPROTAX2-mapper (taxonomy-based)	TPR	xylanolysis	0.366666666666667

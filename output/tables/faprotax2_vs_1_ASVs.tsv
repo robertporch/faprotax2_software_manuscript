@@ -1,0 +1,490 @@
+sample_type	Trait	FAPROTAX v1	FAPROTAX2-mapper
+Alkaline lake	aerobic_chemoheterotrophy	154	994
+Alkaline lake	anoxygenic_photoautotrophy	4	32
+Alkaline lake	anoxygenic_photoautotrophy_S_oxidizing	4	26
+Alkaline lake	chemoheterotrophy	358	2982
+Alkaline lake	dark_hydrogen_oxidation	64	1377
+Alkaline lake	dark_oxidation_of_sulfur_compounds	5	9
+Alkaline lake	dark_sulfide_oxidation	5	32
+Alkaline lake	dark_sulfur_oxidation	5	110
+Alkaline lake	fermentation	95	1938
+Alkaline lake	hydrocarbon_degradation	1	1
+Alkaline lake	hydrogenotrophic_methanogenesis	1	1
+Alkaline lake	intracellular_parasites	6	8
+Alkaline lake	methanogenesis	1	3
+Alkaline lake	methanogenesis_by_CO2_reduction_with_H2	1	28
+Alkaline lake	methanol_oxidation	3	294
+Alkaline lake	methylotrophy	3	45
+Alkaline lake	nitrate_reduction	9	470
+Alkaline lake	nitrate_respiration	6	142
+Alkaline lake	nitrogen_respiration	6	118
+Alkaline lake	oxygenic_photoautotrophy	34	34
+Alkaline lake	photoautotrophy	38	64
+Alkaline lake	photoheterotrophy	3	67
+Alkaline lake	phototrophy	41	183
+Alkaline lake	reductive_acetogenesis	5	61
+Alkaline lake	respiration_of_sulfur_compounds	373	1770
+Alkaline lake	sulfate_respiration	195	519
+Alkaline lake	sulfite_respiration	72	1532
+Alkaline lake	sulfur_respiration	180	1610
+Alkaline lake	thiosulfate_respiration	239	1523
+Alkaline lake	aerobic_anoxygenic_phototrophy		51
+Alkaline lake	aerobic_nitrite_oxidation		79
+Alkaline lake	aliphatic_non_methane_hydrocarbon_degradation		1
+Alkaline lake	animal_parasites_or_symbionts		189
+Alkaline lake	aromatic_hydrocarbon_degradation		31
+Alkaline lake	cellulolysis		133
+Alkaline lake	chitinolysis		20
+Alkaline lake	chlorate_reducers		4
+Alkaline lake	dark_thiosulfate_oxidation		33
+Alkaline lake	human_associated		83
+Alkaline lake	human_gut		594
+Alkaline lake	human_pathogens_all		7
+Alkaline lake	human_pathogens_pneumonia		4
+Alkaline lake	invertebrate_parasites		9
+Alkaline lake	mammal_gut		639
+Alkaline lake	methanogenesis_by_reduction_of_methyl_compounds_with_H2		1
+Alkaline lake	methanotrophy		1
+Alkaline lake	nitrification		79
+Alkaline lake	nitrite_respiration		266
+Alkaline lake	nitrogen_fixation		38
+Alkaline lake	plant_pathogen		8
+Alkaline lake	ureolysis		76
+Alkaline lake	xylanolysis		2059
+Bromeliad	acetoclastic_methanogenesis	1	2
+Bromeliad	aerobic_chemoheterotrophy	55	476
+Bromeliad	animal_parasites_or_symbionts	1	60
+Bromeliad	cellulolysis	1	60
+Bromeliad	chemoheterotrophy	88	683
+Bromeliad	dark_hydrogen_oxidation	4	185
+Bromeliad	fermentation	9	205
+Bromeliad	human_associated	1	49
+Bromeliad	human_pathogens_all	1	7
+Bromeliad	hydrocarbon_degradation	3	4
+Bromeliad	hydrogenotrophic_methanogenesis	7	5
+Bromeliad	intracellular_parasites	7	8
+Bromeliad	iron_respiration	1	
+Bromeliad	methanogenesis	9	8
+Bromeliad	methanogenesis_by_CO2_reduction_with_H2	4	18
+Bromeliad	methanogenesis_by_disproportionation_of_methyl_groups	1	4
+Bromeliad	methanogenesis_by_reduction_of_methyl_compounds_with_H2	3	4
+Bromeliad	methanotrophy	2	6
+Bromeliad	methylotrophy	5	37
+Bromeliad	nitrate_reduction	6	258
+Bromeliad	nitrate_respiration	3	61
+Bromeliad	nitrite_respiration	1	86
+Bromeliad	nitrogen_fixation	4	89
+Bromeliad	nitrogen_respiration	3	43
+Bromeliad	oxygenic_photoautotrophy	1	2
+Bromeliad	photoautotrophy	1	16
+Bromeliad	photoheterotrophy	1	95
+Bromeliad	phototrophy	2	104
+Bromeliad	respiration_of_sulfur_compounds	23	205
+Bromeliad	sulfate_respiration	23	27
+Bromeliad	ureolysis	3	62
+Bromeliad	aerobic_ammonia_oxidation		6
+Bromeliad	aerobic_anoxygenic_phototrophy		34
+Bromeliad	aerobic_nitrite_oxidation		2
+Bromeliad	aliphatic_non_methane_hydrocarbon_degradation		2
+Bromeliad	anoxygenic_photoautotrophy		34
+Bromeliad	anoxygenic_photoautotrophy_S_oxidizing		61
+Bromeliad	aromatic_hydrocarbon_degradation		14
+Bromeliad	chitinolysis		10
+Bromeliad	chlorate_reducers		4
+Bromeliad	dark_iron_oxidation		2
+Bromeliad	dark_oxidation_of_sulfur_compounds		3
+Bromeliad	dark_sulfur_oxidation		24
+Bromeliad	human_gut		58
+Bromeliad	human_pathogens_pneumonia		2
+Bromeliad	invertebrate_parasites		4
+Bromeliad	mammal_gut		60
+Bromeliad	methanol_oxidation		96
+Bromeliad	nitrification		6
+Bromeliad	plant_pathogen		2
+Bromeliad	reductive_acetogenesis		30
+Bromeliad	sulfite_respiration		193
+Bromeliad	sulfur_respiration		244
+Bromeliad	thiosulfate_respiration		144
+Bromeliad	xylanolysis		337
+Freshwater and sediment	aerobic_ammonia_oxidation	8	38
+Freshwater and sediment	aerobic_chemoheterotrophy	850	6646
+Freshwater and sediment	aerobic_nitrite_oxidation	1	112
+Freshwater and sediment	aliphatic_non_methane_hydrocarbon_degradation	2	2
+Freshwater and sediment	animal_parasites_or_symbionts	13	172
+Freshwater and sediment	aromatic_hydrocarbon_degradation	2	254
+Freshwater and sediment	cellulolysis	24	423
+Freshwater and sediment	chemoheterotrophy	1550	7948
+Freshwater and sediment	chitinolysis	3	105
+Freshwater and sediment	chlorate_reducers	6	206
+Freshwater and sediment	dark_hydrogen_oxidation	18	1629
+Freshwater and sediment	dark_iron_oxidation	20	21
+Freshwater and sediment	fermentation	118	1330
+Freshwater and sediment	fumarate_respiration	1	
+Freshwater and sediment	human_associated	13	158
+Freshwater and sediment	human_pathogens_all	13	44
+Freshwater and sediment	human_pathogens_pneumonia	3	10
+Freshwater and sediment	hydrocarbon_degradation	23	22
+Freshwater and sediment	hydrogenotrophic_methanogenesis	4	1
+Freshwater and sediment	intracellular_parasites	20	45
+Freshwater and sediment	invertebrate_parasites	3	2
+Freshwater and sediment	iron_respiration	9	1
+Freshwater and sediment	methanogenesis	4	5
+Freshwater and sediment	methanogenesis_by_CO2_reduction_with_H2	4	69
+Freshwater and sediment	methanogenesis_by_disproportionation_of_methyl_groups	2	2
+Freshwater and sediment	methanol_oxidation	38	1139
+Freshwater and sediment	methanotrophy	21	17
+Freshwater and sediment	methylotrophy	59	675
+Freshwater and sediment	nitrate_reduction	64	2598
+Freshwater and sediment	nitrate_respiration	37	951
+Freshwater and sediment	nitrification	9	150
+Freshwater and sediment	nitrogen_respiration	37	682
+Freshwater and sediment	oxygenic_photoautotrophy	50	50
+Freshwater and sediment	photoautotrophy	50	535
+Freshwater and sediment	photoheterotrophy	43	1009
+Freshwater and sediment	phototrophy	93	1494
+Freshwater and sediment	reductive_acetogenesis	2	49
+Freshwater and sediment	respiration_of_sulfur_compounds	218	1750
+Freshwater and sediment	sulfate_respiration	218	347
+Freshwater and sediment	sulfite_respiration	3	1463
+Freshwater and sediment	sulfur_respiration	1	1636
+Freshwater and sediment	ureolysis	88	1155
+Freshwater and sediment	acetoclastic_methanogenesis		2
+Freshwater and sediment	aerobic_anoxygenic_phototrophy		398
+Freshwater and sediment	anoxygenic_photoautotrophy		707
+Freshwater and sediment	anoxygenic_photoautotrophy_S_oxidizing		524
+Freshwater and sediment	dark_oxidation_of_sulfur_compounds		64
+Freshwater and sediment	dark_sulfide_oxidation		130
+Freshwater and sediment	dark_sulfur_oxidation		501
+Freshwater and sediment	dark_thiosulfate_oxidation		127
+Freshwater and sediment	human_gut		120
+Freshwater and sediment	mammal_gut		132
+Freshwater and sediment	methanogenesis_by_reduction_of_methyl_compounds_with_H2		1
+Freshwater and sediment	nitrite_respiration		1015
+Freshwater and sediment	nitrogen_fixation		1023
+Freshwater and sediment	plant_pathogen		137
+Freshwater and sediment	thiosulfate_respiration		1435
+Freshwater and sediment	xylanolysis		2558
+Hot spring	aerobic_anoxygenic_phototrophy	3	103
+Hot spring	aerobic_chemoheterotrophy	140	1342
+Hot spring	animal_parasites_or_symbionts	7	10
+Hot spring	anoxygenic_photoautotrophy	9	286
+Hot spring	anoxygenic_photoautotrophy_S_oxidizing	9	280
+Hot spring	cellulolysis	1	93
+Hot spring	chemoheterotrophy	193	1780
+Hot spring	dark_hydrogen_oxidation	3	477
+Hot spring	dark_oxidation_of_sulfur_compounds	4	28
+Hot spring	dark_thiosulfate_oxidation	4	109
+Hot spring	fermentation	6	412
+Hot spring	human_associated	7	6
+Hot spring	human_pathogens_all	7	1
+Hot spring	intracellular_parasites	5	5
+Hot spring	nitrate_reduction	8	476
+Hot spring	nitrate_respiration	1	138
+Hot spring	nitrogen_respiration	1	94
+Hot spring	oxygenic_photoautotrophy	321	324
+Hot spring	photoautotrophy	330	608
+Hot spring	photoheterotrophy	99	606
+Hot spring	phototrophy	429	1012
+Hot spring	respiration_of_sulfur_compounds	34	540
+Hot spring	sulfate_respiration	34	96
+Hot spring	thiosulfate_respiration	6	450
+Hot spring	ureolysis	7	415
+Hot spring	xylanolysis	4	995
+Hot spring	aerobic_ammonia_oxidation		2
+Hot spring	aerobic_nitrite_oxidation		4
+Hot spring	aliphatic_non_methane_hydrocarbon_degradation		6
+Hot spring	aromatic_hydrocarbon_degradation		3
+Hot spring	chitinolysis		25
+Hot spring	chlorate_reducers		8
+Hot spring	dark_iron_oxidation		2
+Hot spring	dark_sulfide_oxidation		21
+Hot spring	dark_sulfur_oxidation		79
+Hot spring	human_gut		7
+Hot spring	human_pathogens_pneumonia		1
+Hot spring	hydrocarbon_degradation		14
+Hot spring	invertebrate_parasites		1
+Hot spring	mammal_gut		10
+Hot spring	methanogenesis_by_CO2_reduction_with_H2		23
+Hot spring	methanol_oxidation		139
+Hot spring	methylotrophy		40
+Hot spring	nitrification		6
+Hot spring	nitrite_respiration		173
+Hot spring	nitrogen_fixation		143
+Hot spring	plant_pathogen		8
+Hot spring	reductive_acetogenesis		5
+Hot spring	sulfite_respiration		467
+Hot spring	sulfur_respiration		479
+Hypersaline lagoon sediment	aerobic_chemoheterotrophy	59	623
+Hypersaline lagoon sediment	animal_parasites_or_symbionts	1	80
+Hypersaline lagoon sediment	anoxygenic_photoautotrophy	4	21
+Hypersaline lagoon sediment	anoxygenic_photoautotrophy_S_oxidizing	4	113
+Hypersaline lagoon sediment	chemoheterotrophy	339	1306
+Hypersaline lagoon sediment	dark_hydrogen_oxidation	34	831
+Hypersaline lagoon sediment	dark_oxidation_of_sulfur_compounds	3	41
+Hypersaline lagoon sediment	dark_sulfide_oxidation	2	40
+Hypersaline lagoon sediment	dark_sulfur_oxidation	2	103
+Hypersaline lagoon sediment	dark_thiosulfate_oxidation	1	39
+Hypersaline lagoon sediment	fermentation	83	695
+Hypersaline lagoon sediment	hydrocarbon_degradation	1	14
+Hypersaline lagoon sediment	hydrogenotrophic_methanogenesis	3	10
+Hypersaline lagoon sediment	intracellular_parasites	9	18
+Hypersaline lagoon sediment	iron_respiration	1	2
+Hypersaline lagoon sediment	methanogenesis	3	77
+Hypersaline lagoon sediment	methanogenesis_by_CO2_reduction_with_H2	2	268
+Hypersaline lagoon sediment	methanogenesis_by_disproportionation_of_methyl_groups	1	5
+Hypersaline lagoon sediment	methanogenesis_by_reduction_of_methyl_compounds_with_H2	1	2
+Hypersaline lagoon sediment	methylotrophy	1	26
+Hypersaline lagoon sediment	nitrogen_fixation	2	83
+Hypersaline lagoon sediment	oxygenic_photoautotrophy	39	40
+Hypersaline lagoon sediment	photoautotrophy	43	68
+Hypersaline lagoon sediment	phototrophy	43	207
+Hypersaline lagoon sediment	respiration_of_sulfur_compounds	111	737
+Hypersaline lagoon sediment	sulfate_respiration	111	96
+Hypersaline lagoon sediment	sulfur_respiration	1	885
+Hypersaline lagoon sediment	ureolysis	1	300
+Hypersaline lagoon sediment	acetoclastic_methanogenesis		1
+Hypersaline lagoon sediment	aerobic_ammonia_oxidation		54
+Hypersaline lagoon sediment	aerobic_anoxygenic_phototrophy		17
+Hypersaline lagoon sediment	aerobic_nitrite_oxidation		2
+Hypersaline lagoon sediment	aromatic_hydrocarbon_degradation		12
+Hypersaline lagoon sediment	cellulolysis		168
+Hypersaline lagoon sediment	chitinolysis		8
+Hypersaline lagoon sediment	chlorate_reducers		12
+Hypersaline lagoon sediment	dark_iron_oxidation		2
+Hypersaline lagoon sediment	fumarate_respiration		1
+Hypersaline lagoon sediment	human_associated		32
+Hypersaline lagoon sediment	human_gut		133
+Hypersaline lagoon sediment	human_pathogens_all		6
+Hypersaline lagoon sediment	human_pathogens_pneumonia		4
+Hypersaline lagoon sediment	invertebrate_parasites		3
+Hypersaline lagoon sediment	mammal_gut		134
+Hypersaline lagoon sediment	methanol_oxidation		157
+Hypersaline lagoon sediment	methanotrophy		13
+Hypersaline lagoon sediment	nitrate_reduction		611
+Hypersaline lagoon sediment	nitrate_respiration		157
+Hypersaline lagoon sediment	nitrification		54
+Hypersaline lagoon sediment	nitrite_respiration		165
+Hypersaline lagoon sediment	nitrogen_respiration		104
+Hypersaline lagoon sediment	photoheterotrophy		72
+Hypersaline lagoon sediment	reductive_acetogenesis		45
+Hypersaline lagoon sediment	sulfite_respiration		734
+Hypersaline lagoon sediment	thiosulfate_respiration		674
+Hypersaline lagoon sediment	xylanolysis		851
+Mammal feces	aerobic_chemoheterotrophy	354	981
+Mammal feces	aliphatic_non_methane_hydrocarbon_degradation	8	11
+Mammal feces	animal_parasites_or_symbionts	49	1602
+Mammal feces	aromatic_hydrocarbon_degradation	8	118
+Mammal feces	cellulolysis	1	127
+Mammal feces	chemoheterotrophy	782	2997
+Mammal feces	chitinolysis	1	57
+Mammal feces	dark_hydrogen_oxidation	11	285
+Mammal feces	fermentation	437	2049
+Mammal feces	human_associated	35	1116
+Mammal feces	human_gut	8	1634
+Mammal feces	human_pathogens_all	27	39
+Mammal feces	human_pathogens_pneumonia	1	
+Mammal feces	hydrocarbon_degradation	8	23
+Mammal feces	hydrogenotrophic_methanogenesis	2	2
+Mammal feces	intracellular_parasites	1	7
+Mammal feces	invertebrate_parasites	1	4
+Mammal feces	mammal_gut	8	1709
+Mammal feces	methanogenesis	2	2
+Mammal feces	methanogenesis_by_CO2_reduction_with_H2	2	3
+Mammal feces	nitrate_reduction	6	347
+Mammal feces	nitrate_respiration	1	145
+Mammal feces	nitrogen_respiration	1	55
+Mammal feces	photoheterotrophy	14	57
+Mammal feces	phototrophy	14	198
+Mammal feces	respiration_of_sulfur_compounds	6	524
+Mammal feces	sulfate_respiration	6	49
+Mammal feces	ureolysis	17	181
+Mammal feces	xylanolysis	6	1765
+Mammal feces	aerobic_anoxygenic_phototrophy		33
+Mammal feces	anoxygenic_photoautotrophy		37
+Mammal feces	anoxygenic_photoautotrophy_S_oxidizing		12
+Mammal feces	chlorate_reducers		9
+Mammal feces	dark_iron_oxidation		1
+Mammal feces	dark_sulfide_oxidation		7
+Mammal feces	dark_sulfur_oxidation		16
+Mammal feces	dark_thiosulfate_oxidation		3
+Mammal feces	methanol_oxidation		179
+Mammal feces	methylotrophy		62
+Mammal feces	nitrite_respiration		158
+Mammal feces	nitrogen_fixation		98
+Mammal feces	photoautotrophy		31
+Mammal feces	plant_pathogen		23
+Mammal feces	reductive_acetogenesis		18
+Mammal feces	sulfite_respiration		375
+Mammal feces	sulfur_respiration		330
+Mammal feces	thiosulfate_respiration		279
+Marine water and sediment	aerobic_ammonia_oxidation	31	83
+Marine water and sediment	aerobic_chemoheterotrophy	403	4091
+Marine water and sediment	aerobic_nitrite_oxidation	3	48
+Marine water and sediment	animal_parasites_or_symbionts	4	195
+Marine water and sediment	cellulolysis	2	311
+Marine water and sediment	chemoheterotrophy	846	4009
+Marine water and sediment	dark_hydrogen_oxidation	29	1775
+Marine water and sediment	dark_iron_oxidation	7	8
+Marine water and sediment	dark_oxidation_of_sulfur_compounds	21	35
+Marine water and sediment	dark_sulfide_oxidation	21	249
+Marine water and sediment	fermentation	50	998
+Marine water and sediment	human_associated	1	33
+Marine water and sediment	human_pathogens_all	1	16
+Marine water and sediment	hydrocarbon_degradation	2	11
+Marine water and sediment	hydrogenotrophic_methanogenesis	3	
+Marine water and sediment	intracellular_parasites	12	106
+Marine water and sediment	iron_respiration	1	1
+Marine water and sediment	methanogenesis	3	3
+Marine water and sediment	methanogenesis_by_CO2_reduction_with_H2	2	203
+Marine water and sediment	methanogenesis_by_disproportionation_of_methyl_groups	1	1
+Marine water and sediment	methanogenesis_by_reduction_of_methyl_compounds_with_H2	1	
+Marine water and sediment	methanol_oxidation	32	628
+Marine water and sediment	methanotrophy	2	7
+Marine water and sediment	methylotrophy	35	159
+Marine water and sediment	nitrate_reduction	53	2573
+Marine water and sediment	nitrate_respiration	37	466
+Marine water and sediment	nitrification	34	131
+Marine water and sediment	nitrite_respiration	1	536
+Marine water and sediment	nitrogen_respiration	37	238
+Marine water and sediment	oxygenic_photoautotrophy	14	14
+Marine water and sediment	photoautotrophy	14	140
+Marine water and sediment	photoheterotrophy	16	348
+Marine water and sediment	phototrophy	30	509
+Marine water and sediment	respiration_of_sulfur_compounds	87	1146
+Marine water and sediment	sulfate_respiration	87	161
+Marine water and sediment	sulfite_respiration	4	1326
+Marine water and sediment	sulfur_respiration	3	1358
+Marine water and sediment	thiosulfate_respiration	3	1156
+Marine water and sediment	ureolysis	12	373
+Marine water and sediment	xylanolysis	1	1063
+Marine water and sediment	acetoclastic_methanogenesis		1
+Marine water and sediment	aerobic_anoxygenic_phototrophy		110
+Marine water and sediment	aliphatic_non_methane_hydrocarbon_degradation		12
+Marine water and sediment	anoxygenic_photoautotrophy		159
+Marine water and sediment	anoxygenic_photoautotrophy_S_oxidizing		709
+Marine water and sediment	aromatic_hydrocarbon_degradation		108
+Marine water and sediment	chitinolysis		23
+Marine water and sediment	chlorate_reducers		69
+Marine water and sediment	dark_sulfur_oxidation		744
+Marine water and sediment	dark_thiosulfate_oxidation		179
+Marine water and sediment	human_gut		12
+Marine water and sediment	human_pathogens_pneumonia		4
+Marine water and sediment	invertebrate_parasites		1
+Marine water and sediment	mammal_gut		62
+Marine water and sediment	nitrogen_fixation		263
+Marine water and sediment	plant_pathogen		36
+Marine water and sediment	reductive_acetogenesis		2
+Mud	acetoclastic_methanogenesis	3	6
+Mud	aerobic_chemoheterotrophy	216	2451
+Mud	aerobic_nitrite_oxidation	10	86
+Mud	animal_parasites_or_symbionts	3	384
+Mud	cellulolysis	8	297
+Mud	chemoheterotrophy	755	4630
+Mud	chitinolysis	1	90
+Mud	chlorate_reducers	6	43
+Mud	dark_hydrogen_oxidation	20	2257
+Mud	dark_iron_oxidation	26	31
+Mud	dark_oxidation_of_sulfur_compounds	1	47
+Mud	dark_sulfide_oxidation	1	95
+Mud	dark_sulfur_oxidation	1	260
+Mud	dark_thiosulfate_oxidation	1	81
+Mud	fermentation	287	1640
+Mud	human_associated	2	222
+Mud	human_pathogens_all	2	41
+Mud	human_pathogens_pneumonia	1	7
+Mud	hydrocarbon_degradation	21	26
+Mud	hydrogenotrophic_methanogenesis	33	19
+Mud	intracellular_parasites	16	47
+Mud	invertebrate_parasites	1	6
+Mud	iron_respiration	9	1
+Mud	methanogenesis	36	39
+Mud	methanogenesis_by_CO2_reduction_with_H2	24	719
+Mud	methanogenesis_by_disproportionation_of_methyl_groups	2	2
+Mud	methanogenesis_by_reduction_of_methyl_compounds_with_H2	9	1
+Mud	methanol_oxidation	24	543
+Mud	methanotrophy	20	14
+Mud	methylotrophy	53	254
+Mud	nitrate_reduction	24	1884
+Mud	nitrate_respiration	13	578
+Mud	nitrification	10	647
+Mud	nitrogen_fixation	3	484
+Mud	nitrogen_respiration	13	378
+Mud	photoheterotrophy	19	462
+Mud	phototrophy	19	760
+Mud	reductive_acetogenesis	4	94
+Mud	respiration_of_sulfur_compounds	297	1638
+Mud	sulfate_respiration	297	551
+Mud	sulfite_respiration	2	1487
+Mud	ureolysis	9	899
+Mud	xylanolysis	1	2137
+Mud	aerobic_ammonia_oxidation		561
+Mud	aerobic_anoxygenic_phototrophy		95
+Mud	aliphatic_non_methane_hydrocarbon_degradation		4
+Mud	anoxygenic_photoautotrophy		316
+Mud	anoxygenic_photoautotrophy_S_oxidizing		296
+Mud	aromatic_hydrocarbon_degradation		89
+Mud	human_gut		207
+Mud	mammal_gut		243
+Mud	nitrite_respiration		707
+Mud	photoautotrophy		181
+Mud	plant_pathogen		27
+Mud	sulfur_respiration		1393
+Mud	thiosulfate_respiration		1297
+Surface soil	aerobic_ammonia_oxidation	25	35
+Surface soil	aerobic_chemoheterotrophy	1158	8367
+Surface soil	aliphatic_non_methane_hydrocarbon_degradation	3	9
+Surface soil	animal_parasites_or_symbionts	30	217
+Surface soil	aromatic_hydrocarbon_degradation	3	165
+Surface soil	cellulolysis	21	541
+Surface soil	chemoheterotrophy	1926	9630
+Surface soil	chitinolysis	1	79
+Surface soil	chlorate_reducers	5	136
+Surface soil	dark_hydrogen_oxidation	5	1543
+Surface soil	dark_iron_oxidation	1	14
+Surface soil	fermentation	128	1421
+Surface soil	fumarate_respiration	1	
+Surface soil	human_associated	29	226
+Surface soil	human_gut	1	177
+Surface soil	human_pathogens_all	28	51
+Surface soil	human_pathogens_pneumonia	1	15
+Surface soil	hydrocarbon_degradation	21	18
+Surface soil	hydrogenotrophic_methanogenesis	4	2
+Surface soil	intracellular_parasites	21	35
+Surface soil	invertebrate_parasites	1	2
+Surface soil	iron_respiration	5	
+Surface soil	mammal_gut	1	186
+Surface soil	methanogenesis	4	5
+Surface soil	methanogenesis_by_CO2_reduction_with_H2	4	51
+Surface soil	methanogenesis_by_disproportionation_of_methyl_groups	1	1
+Surface soil	methanol_oxidation	14	1337
+Surface soil	methanotrophy	18	14
+Surface soil	methylotrophy	32	609
+Surface soil	nitrate_reduction	50	3031
+Surface soil	nitrate_respiration	22	867
+Surface soil	nitrification	25	81
+Surface soil	nitrogen_fixation	8	1047
+Surface soil	nitrogen_respiration	22	642
+Surface soil	oxygenic_photoautotrophy	3	4
+Surface soil	photoautotrophy	3	436
+Surface soil	photoheterotrophy	28	1175
+Surface soil	phototrophy	31	1542
+Surface soil	plant_pathogen	1	113
+Surface soil	reductive_acetogenesis	1	21
+Surface soil	respiration_of_sulfur_compounds	49	1600
+Surface soil	sulfate_respiration	49	174
+Surface soil	sulfite_respiration	3	1352
+Surface soil	sulfur_respiration	1	1525
+Surface soil	ureolysis	115	1453
+Surface soil	xylanolysis	2	2956
+Surface soil	acetoclastic_methanogenesis		1
+Surface soil	aerobic_anoxygenic_phototrophy		367
+Surface soil	aerobic_nitrite_oxidation		46
+Surface soil	anoxygenic_photoautotrophy		657
+Surface soil	anoxygenic_photoautotrophy_S_oxidizing		602
+Surface soil	dark_oxidation_of_sulfur_compounds		44
+Surface soil	dark_sulfide_oxidation		142
+Surface soil	dark_sulfur_oxidation		422
+Surface soil	dark_thiosulfate_oxidation		146
+Surface soil	methanogenesis_by_reduction_of_methyl_compounds_with_H2		1
+Surface soil	nitrite_respiration		1010
+Surface soil	thiosulfate_respiration		1332
