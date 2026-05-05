@@ -13,7 +13,7 @@ PLEASE NOTE:
 - Third-party dependencies (MAFFT, EPA-ng) for sequence-based phylogenetic placement in FAPROTAX2
 
 ## To reproduce figures
-Clone this repository, ensure all necessary R packages are installed, then run the "workflow.sh" bash script from the command line.
+Clone this repository, ensure all dependencies and necessary R packages are installed, then run the "workflow.sh" bash script from the command line.
 
 ## Data availability
 The data used for this project come from the FAPROTAX2 phenotypic database, empirical microbiome samples, and cross-validation analyses comparing the predictive
