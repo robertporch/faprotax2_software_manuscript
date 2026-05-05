@@ -8,6 +8,9 @@ PLEASE NOTE:
 ## Requirements
 - R version 4.4.1
 - Packages listed in R scripts
+- FAPROTAX version 1, available at www.loucalab.com/archive/FAPROTAX
+- FAPROTAX version 2, available at www.loucalab.com/archive/FAPROTAX2
+- Third-party dependencies (MAFFT, EPA-ng) for sequence-based phylogenetic placement in FAPROTAX2
 
 ## To reproduce figures
 Clone this repository, ensure all necessary R packages are installed, then run the "workflow.sh" bash script from the command line.
